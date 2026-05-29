@@ -1,0 +1,8 @@
+{
+  "name": "The Time Warp - I Salti Mancanti",
+  "description": "Il portale ufficiale di lettura per la serie a fumetti spin-off 'The Time Warp: I Salti Mancanti' di Giuseppe Di Prima.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
